@@ -1,0 +1,6 @@
+# the dataset is downloaded from Hugging Face, see README.md
+datasets/
+outputs/
+__pycache__/
+*.pyc
+.DS_Store
